@@ -1,4 +1,5 @@
 Deneyap MITM Dedektörü
+
 Bu proje, Deneyap Kart 1A V2 (ESP32-S3 tabanlı) kullanarak pasif bir Man-in-the-Middle (MITM) algılama ajanı oluşturur. Ağdaki şüpheli aktiviteleri izler, ARP spoofing ve deauth saldırılarını tespit eder, yakalanan paketleri görselleştirir ve sonuçları bir web arayüzünde sunar. Proje, siber güvenlik eğitimleri ve ağ izleme için ideal bir araçtır.
 
 Özellikler
